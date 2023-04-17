@@ -1,2 +1,2 @@
-# Dice-Game
-2 Players dice game made with Javascript 
+# Drum-Kit
+Developed web-app for users to play drums with keyboard or mouse
